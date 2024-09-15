@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulamento", "encapsulamento\encapsulamento.csproj", "{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulamento", "encapsulamento\encapsulamento.csproj", "{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listas-encapsulamento", "listas-encapsulamento\listas-encapsulamento.csproj", "{40E9653B-9A21-4FFB-8177-8AA1999B17DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{37EE5F8A-05F1-476F-9177-6786E04FC81C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E9653B-9A21-4FFB-8177-8AA1999B17DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E9653B-9A21-4FFB-8177-8AA1999B17DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E9653B-9A21-4FFB-8177-8AA1999B17DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E9653B-9A21-4FFB-8177-8AA1999B17DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37EE5F8A-05F1-476F-9177-6786E04FC81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EE5F8A-05F1-476F-9177-6786E04FC81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EE5F8A-05F1-476F-9177-6786E04FC81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EE5F8A-05F1-476F-9177-6786E04FC81C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
