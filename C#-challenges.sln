@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-challenges", "C#-challenges\C#-challenges.csproj", "{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulamento", "encapsulamento\encapsulamento.csproj", "{FD2F94FD-AF24-43A0-84B6-B11A2E1AAC1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
