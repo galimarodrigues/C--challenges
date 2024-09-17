@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "composition3", "composition
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance1", "inheritance1\inheritance1.csproj", "{7B76A67C-ABA5-44E8-81CB-5C87A887D23F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance2", "inheritance2\inheritance2.csproj", "{2DCE34DE-FABE-40BD-AED7-FF5FA2A77206}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance2-upcasting-downcasting", "inheritance2\inheritance2-upcasting-downcasting.csproj", "{2DCE34DE-FABE-40BD-AED7-FF5FA2A77206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance3", "inheritance3\inheritance3.csproj", "{989BB324-357D-4327-B8B2-E570A522DA4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{2DCE34DE-FABE-40BD-AED7-FF5FA2A77206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DCE34DE-FABE-40BD-AED7-FF5FA2A77206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DCE34DE-FABE-40BD-AED7-FF5FA2A77206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989BB324-357D-4327-B8B2-E570A522DA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989BB324-357D-4327-B8B2-E570A522DA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989BB324-357D-4327-B8B2-E570A522DA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989BB324-357D-4327-B8B2-E570A522DA4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
