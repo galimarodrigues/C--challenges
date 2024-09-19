@@ -15,10 +15,7 @@ Este repositório contém uma coleção de desafios e exercícios em C# com foco
 
 ## Como Executar
 
-1. Clone o repositório:
-    ```sh
-    git clone https://github.com/galimarodrigues/CSharp-challenges.git
-    ```
+1. Clone o repositório
 
 2. Abra a solução `C%23-challenges.sln` na sua IDE
 
