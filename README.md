@@ -23,11 +23,3 @@ Este repositório contém uma coleção de desafios e exercícios em C# com foco
 2. Abra a solução `C%23-challenges.sln` na sua IDE
 
 3. Selecione o projeto desejado e execute-o.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
